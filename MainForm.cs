@@ -33,7 +33,7 @@ namespace SignalVisualizer
         #region Constructor
 
         /// <summary>
-        /// Constructor.
+        /// Constructor - MainForm.
         /// </summary>
         public MainForm()
         {
